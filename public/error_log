@@ -1,0 +1,349 @@
+[25-Feb-2023 09:26:15 America/New_York] PHP Warning:  require(/home/siegvxko/inventory.siegmanlanka.com/sm/public_html/../sm/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/siegvxko/inventory.siegmanlanka.com/sm/public_html/index.php on line 25
+[25-Feb-2023 09:26:15 America/New_York] PHP Warning:  require(/home/siegvxko/inventory.siegmanlanka.com/sm/public_html/../sm/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/siegvxko/inventory.siegmanlanka.com/sm/public_html/index.php on line 25
+[25-Feb-2023 09:26:15 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/siegvxko/inventory.siegmanlanka.com/sm/public_html/../sm/bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/siegvxko/inventory.siegmanlanka.com/sm/public_html/index.php on line 25
+[25-Feb-2023 09:27:17 America/New_York] PHP Warning:  require(/home/siegvxko/inventory.siegmanlanka.com/sm/public_html/../sm/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/siegvxko/inventory.siegmanlanka.com/sm/public_html/index.php on line 25
+[25-Feb-2023 09:27:17 America/New_York] PHP Warning:  require(/home/siegvxko/inventory.siegmanlanka.com/sm/public_html/../sm/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/siegvxko/inventory.siegmanlanka.com/sm/public_html/index.php on line 25
+[25-Feb-2023 09:27:17 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/siegvxko/inventory.siegmanlanka.com/sm/public_html/../sm/bootstrap/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/siegvxko/inventory.siegmanlanka.com/sm/public_html/index.php on line 25
+[05-Mar-2023 19:59:30 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[05-Mar-2023 19:59:35 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[06-Mar-2023 08:30:19 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[06-Mar-2023 10:22:31 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 09:27:21 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:19:54 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:20:23 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:20:30 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:21:56 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:22:05 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:22:09 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:22:19 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:22:30 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:22:45 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:24:45 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:24:45 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:26:37 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:26:39 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:28:04 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:29:13 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:29:29 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:29:36 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:30:51 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:31:00 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:31:08 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:31:20 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:31:21 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:31:22 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:31:51 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:31:52 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:31:53 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:31:55 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:33:02 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:33:20 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:33:58 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:33:58 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:34:00 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:35:44 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:35:46 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:35:47 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:38:03 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 20:38:05 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 22:03:25 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[07-Mar-2023 22:17:20 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[09-Mar-2023 20:03:17 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[10-Mar-2023 17:54:41 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[10-Mar-2023 18:59:04 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[10-Mar-2023 18:59:07 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
+[10-Mar-2023 18:59:15 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function getFrameFilters() on null in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php:285
+Stack trace:
+#0 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php(189): Whoops\Handler\PlainTextHandler->getTraceOutput()
+#1 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php(292): Whoops\Handler\PlainTextHandler->generateResponse()
+#2 /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Run.php(398): Whoops\Handler\PrettyPageHandler->handle(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(338): Whoops\Run->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home/siegvxko/inventory.siegmanlanka.com/vendor/laravel/framework/src/Illuminate/Foundation/Excepti in /home/siegvxko/inventory.siegmanlanka.com/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 285
