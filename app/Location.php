@@ -22,6 +22,7 @@ class Location extends Model
         $location->email = $data['email'];
         $location->type = $data['type'];
         $location->created_by = $user;
+        $location->updated_by = $user;
         $location->status = ACTIVE;
         $location->save();
     }

@@ -55,7 +55,7 @@ class SupplierController extends Controller
         $fax = $request->input('fax');
         $mobile = $request->input('mobile');
         $email = $request->input('email');
-        $category = $request->input('category');
+//        $category = $request->input('category');
 
         $data = array(
             'company' => $company,
@@ -64,7 +64,7 @@ class SupplierController extends Controller
             'fax' => $fax,
             'mobile' => $mobile,
             'email' => $email,
-            'category' => $category
+//            'category' => $category
         );
 
         Supplier::saveSupplier($data);

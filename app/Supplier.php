@@ -20,7 +20,7 @@ class Supplier extends Model
         $supplier->mobile = $data['mobile'];
         $supplier->email = $data['email'];
         $supplier->user_created = $user;
-        $supplier->category = $data['category'];
+//        $supplier->category = $data['category'];
 
         $supplier->save();
     }

@@ -91,6 +91,7 @@ class UserController extends Controller
         $user->email = $request->input('email');
         $user->username = $request->input('username');
         $user->locid = $request->input('location');
+        $user->status = Auth::user()->id;
         $user->password = Hash::make($request->input('password'));
 
         $user->save();
